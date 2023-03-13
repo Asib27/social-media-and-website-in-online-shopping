@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "7e5642673452b7db",
+    "type": "split",
+    "children": [
+      {
+        "id": "494723ef55c894aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3ae7350de7cf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data points/17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3b89729067886bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "290d7ff17a286463",
+    "type": "split",
+    "children": [
+      {
+        "id": "25614921f64f5e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ed1babab45125c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08cf056e4183e647",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "825eba1afbb99cf8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9c40a614a26c5de",
+    "type": "split",
+    "children": [
+      {
+        "id": "3534e0eb423eb804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26bb8143356e10b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code Index.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3695816435a9ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8712d3551aa5b272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88bc2cd54dea3add",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3b89729067886bd",
+  "lastOpenFiles": [
+    "README.md",
+    "Report.md",
+    "Social Media usage.md",
+    "data points/1.md",
+    "codes/social media to replicate chatting.md",
+    "data points/18.md",
+    "data points/17.md",
+    "data points/14.md",
+    "data points/Abdul Munaf.pdf",
+    "data points/15.md",
+    "data points/16.md",
+    "Code Index.md",
+    "Statistics.md",
+    "Workbench.md",
+    "An Integrated Qualitative Analysis Environment with Obsidian.md",
+    "codes/Reach social media.md",
+    "codes/Social Media markeplace better.md",
+    "codes/order and product doesnt match.md",
+    "data points/13.md",
+    "data points/12.md",
+    "codes/Bias in social media.md",
+    "codes/Better ad in social media due to informality.md",
+    "codes/Activeness in social media influences.md",
+    "codes/Better Offers in social media.md",
+    "data points/0.md",
+    "codes/Social Media checked frequently.md",
+    "codes/Social Media Algorithm.md",
+    "Buying Online",
+    "data points/Golam_mahdi_ahmed.pdf",
+    "data points/Ahad_kaiser_tamim_answer.pdf",
+    "data points/akhil kumar.pdf",
+    "data points/Fatin_ahmed.pdf",
+    "data points/Firdous_answer.pdf"
+  ]
+}
